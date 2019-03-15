@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="350e6a9f-34bf-4e94-ad9f-536074fd04c1" name="Default Changelist" comment="" />
+    <list default="true" id="350e6a9f-34bf-4e94-ad9f-536074fd04c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OLDindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact4REYNOLDS.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact4REYNOLDS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_width.html" beforeDir="false" afterPath="$PROJECT_DIR$/full_width.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index4REYNOLDS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio4REYNOLDS.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio4REYNOLDS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcodes.html" beforeDir="false" afterPath="$PROJECT_DIR$/shortcodes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index4REYNOLDS.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="121" selection-start-line="121" selection-end-line="151" selection-end-column="105" />
@@ -62,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact4REYNOLDS.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
@@ -75,6 +88,15 @@
                 <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OLDindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -92,6 +114,9 @@
       <replace>ff6600</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,6 +127,7 @@
         <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/portfolio4REYNOLDS.html" />
         <option value="$PROJECT_DIR$/contact4REYNOLDS.html" />
+        <option value="$PROJECT_DIR$/OLDindex.html" />
       </list>
     </option>
   </component>
@@ -111,6 +137,7 @@
     <option name="width" value="942" />
     <option name="height" value="1025" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -134,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552650185665" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552650322971" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images/content__images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -173,16 +200,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552632240954</updated>
       <workItem from="1552632247965" duration="15924000" />
-      <workItem from="1552648526137" duration="1796000" />
+      <workItem from="1552648526137" duration="2426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17720000" />
+    <option name="totallyTimeSpent" value="18350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="30" width="1924" height="1030" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26414087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -258,13 +284,6 @@
     <entry file="file://$PROJECT_DIR$/shortcodes/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_fixed.html" />
     <entry file="file://$PROJECT_DIR$/legal-notice.txt" />
     <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
@@ -300,7 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index4REYNOLDS.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="121" selection-start-line="121" selection-end-line="151" selection-end-column="105" />
@@ -357,6 +376,13 @@
             <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OLDindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
