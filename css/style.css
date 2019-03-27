@@ -390,7 +390,7 @@ ul.dropdown-menu>li>a:hover {
 }
 /*Carousel*/
 .slider {
-	position: fixed;
+	position: absolute;
 	top: 80px;
 	height: 100%;
 	width: 100%;
@@ -494,8 +494,8 @@ ul.dropdown-menu>li>a:hover {
 	margin: 0;
 }
 .titles.services {
-	background: url('../images/image_1920x1000.jpg') no-repeat;
- // background-size:100% 100%;
+	background-color: #ff6600;
+ 	background-size:100% 100%;
 	
 	background-origin: initial;
 	background-clip: initial;
@@ -506,8 +506,8 @@ ul.dropdown-menu>li>a:hover {
 	color: #fff;
 }
 .titles.aboutus {
-	background: url('../images/image_1920x1000.jpg') no-repeat;
- // background-size:100% 100%;
+	background-color: #ff6600;
+ 	 background-size:100% 100%;
 	background-origin: initial;
 	background-clip: initial;
 	background-size: cover;
@@ -516,7 +516,7 @@ ul.dropdown-menu>li>a:hover {
 	font-size: 18px;
 	color: #fff;
 }
-.titles.blog {
+.titles.portfolio {
 	background: url('../images/image_1920x1000_blk.jpg') no-repeat;
  // background-size:100% 100%;
 	background-attachment: fixed;
